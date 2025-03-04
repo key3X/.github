@@ -1,7 +1,5 @@
 # Key3: The World's First Web3-Enabled Mobile Keyboard
 
-![Key3 Logo](https://framerusercontent.com/images/A0nuQg5BwZ4mKI28hoGi0bY58.png)
-
 **Key3** revolutionizes the mobile experience by integrating blockchain functionalities directly into your keyboard. Manage your crypto wallet, sign smart contracts, and interact with blockchain applications seamlessly from any app.
 ## Key Features
 
@@ -35,6 +33,6 @@ Download Key3 today and redefine your mobile Web3 experience:
 
 ## About Key3
 
-At Key3, we're committed to enhancing the user experience for Web3 mobile applications by enabling wallet management and blockchain contract signing directly from your keyboard. Our mission is to simplify crypto transactions and interactions, making them accessible to everyone. [oai_citation_attribution:14‡key3.io](https://key3.io/)
+At Key3, we're committed to enhancing the user experience for Web3 mobile applications by enabling wallet management and blockchain contract signing directly from your keyboard. Our mission is to simplify crypto transactions and interactions, making them accessible to everyone.
 
 For more information, visit our [official website](https://key3.io/).
